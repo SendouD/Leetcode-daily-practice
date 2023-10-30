@@ -21,27 +21,6 @@ class Solution {
 
 
 
-//        Another solution (Try this one) 
 
-        // int low = 0 , high = s.length()-1;        
-        // int count = 0;
-        // while(low<high){
-        //     if((s.charAt(low)!=s.charAt(high)) && s.charAt(low+1)==s.charAt(high)){
-        //         low++; count++;
-        //     }else if(s.charAt(low)!=s.charAt(high) && s.charAt(high-1) == s.charAt(low)){
-        //         count++; high--;
-        //     }if((s.charAt(low)!=s.charAt(high)) && s.charAt(low+1)!=s.charAt(high)){
-        //         low++; count++;
-        //     }else if(s.charAt(low)!=s.charAt(high) && s.charAt(high-1) != s.charAt(low)){
-        //         count++; high--;
-        //     }
-        //     else if(s.charAt(low)!=s.charAt(high)){
-        //         low++; high--;
-        //     } else{
-        //         low++; high--;
-        //     }
-        // }
-        // if(count<=1) return true;
-        // return false;
     }
 }
