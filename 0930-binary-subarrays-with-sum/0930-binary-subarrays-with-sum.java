@@ -6,6 +6,7 @@ class Solution {
             for(int j=i;j<nums.length;j++){
                 temp = temp+nums[j];
                 if(temp==goal) ans++;
+                if(temp>goal) break;
             }
         }
         return ans;
