@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SendouD/Leetcode-daily-practice/tree/master/0217-contains-duplicate) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/SendouD/Leetcode-daily-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SendouD/Leetcode-daily-practice/tree/master/0007-reverse-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SendouD/Leetcode-daily-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/SendouD/Leetcode-daily-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/SendouD/Leetcode-daily-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/SendouD/Leetcode-daily-practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
